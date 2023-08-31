@@ -1,0 +1,16 @@
+old
+project
+project.app.coms
+project.app.coms.msg
+project.app.exception
+project.app.game
+project.app.game.stage
+project.app.object.cards
+project.app.object.cards.card
+project.app.player
+project.app.client
+project.app.tool
+project.test.coms
+project.test.object.cards
+project.test.player
+project.test.stage
